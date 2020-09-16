@@ -1,3 +1,7 @@
-[⚔️ CV](https://vivirenremoto.com/aoe/en.php)
+[🏠 Homepage](https://vivirenremoto.github.io/homepage/)
 
-[🏠 Blog](https://vivirenremoto.com/)
+[⚔️ CV](https://vivirenremoto.github.io/ageofcv/en.html)
+
+[✍️ Blog](https://vivirenremoto.com/)
+
+[🐦 Twitter](https://twitter.com/vivirenremoto)
