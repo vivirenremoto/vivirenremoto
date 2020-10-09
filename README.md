@@ -6,6 +6,8 @@
 
 [🛠️ Free Public API](https://github.com/vivirenremoto/free-public-api)
 
+[🧪 Full Code Alchemist](https://github.com/vivirenremoto/full_code_alchemist)
+
 [✍️ DEV.to](https://dev.to/vivirenremoto/)
 
 [✍️ Blog](https://vivirenremoto.com/)
