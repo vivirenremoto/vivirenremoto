@@ -1,4 +1,4 @@
-![virenremoto](https://i.imgur.com/ByPxxl6.png)
+![virenremoto](https://i.imgur.com/r5ToowF.png)
 
 [🏠 Portafolio](https://vivirenremoto.github.io/)
 
