@@ -1,3 +1,5 @@
+![virenremoto][https://i.imgur.com/ByPxxl6.png]
+
 [🏠 Portafolio](https://vivirenremoto.github.io/)
 
 [⚔️ Resume based on Age of Empires](https://vivirenremoto.github.io/ageofcv/en.html)
