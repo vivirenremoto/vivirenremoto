@@ -4,7 +4,7 @@
 
 [⚔️ Resume based on Age of Empires](https://vivirenremoto.github.io/ageofcv/en.html)
 
-[🍄 Resume based on Mario Bross](https://vivirenremoto.github.io/mariocv/)
+[🍄 Resume based on Mario Bros](https://vivirenremoto.github.io/mariocv/)
 
 [🥽 360 Resume](https://vivirenremoto.github.io/360cv/)
 
