@@ -8,7 +8,7 @@
 
 [🥽 360 Resume](https://vivirenremoto.github.io/360cv/)
 
-[🖥️ Setup](https://perfectsetup.pro/setups/mi-setup-vivirenremoto/)
+[🖥️ Setup](https://perfectsetup.pro/setups/setup-de-vivirenremoto-version-1-1/)
 
 [🛠️ Free Public API](https://github.com/vivirenremoto/free-public-api)
 
