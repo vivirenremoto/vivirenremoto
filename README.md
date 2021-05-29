@@ -1,4 +1,4 @@
-![virenremoto](https://i.imgur.com/r5ToowF.png)
+![logo2](https://user-images.githubusercontent.com/448403/120072222-00bc5480-c093-11eb-8b2c-a6df25ac04d4.png)
 
 ### My resumes based on videogames
 
