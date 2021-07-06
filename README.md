@@ -2,6 +2,8 @@
 
 ### My resumes based on videogames
 
+[😈 Diablo Resume](https://vivirenremoto.github.io/diablocv/)
+
 [⚔️ Age of Empires Resume](https://vivirenremoto.github.io/ageofcv/en.html)
 
 [🍄 Mario Bros Resume](https://vivirenremoto.github.io/mariocv/en.html)
