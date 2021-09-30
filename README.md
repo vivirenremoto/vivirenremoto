@@ -12,7 +12,7 @@
 
 [💀 Resident Evil Resume](https://vivirenremoto.github.io/residentevilcv/en.html)
 
-[🏹 Zelda Resume](https://vivirenremoto.github.io/zeldacv/en.html)
+[🏹 Zelda Resume](https://vivirenremoto.github.io/zeldacv/)
 
 [😈 Doom Resume](https://vivirenremoto.github.io/doomcv/en.html)
 
